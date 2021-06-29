@@ -1,5 +1,5 @@
 This is a sample file 
 TO demonstrate the Merge conflict
-Today is tuesday.
+Today is wednesday
 THis is the second assignment: Edited by Manju. This is a practice ex on git.
 This is a practice ex on git.Edited by Abhishek
