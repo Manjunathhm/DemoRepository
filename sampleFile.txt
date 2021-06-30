@@ -1,5 +1,0 @@
-This is a sample file 
-TO demonstrate the Merge conflict
-Edited by Manju. This is a practice ex on git.
-Today is wednesday
-This is a practice ex on git.Edited by Abhishek
